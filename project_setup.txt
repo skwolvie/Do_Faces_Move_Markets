@@ -1,0 +1,17 @@
+conda create -n ceoproj
+conda install pip
+pip install pandas
+pip install 
+pip install google-api-python-client
+pip install pytube
+pip install yt_dlp
+pip install awscli
+pip install azure-cli
+
+
+
+Resources:
+1. Google Developer Console
+2. Microsoft Azure
+3. Amazon Web Services
+4. Wharton Research Data Services - WRDS
