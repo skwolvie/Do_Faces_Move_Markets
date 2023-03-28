@@ -1,6 +1,6 @@
 #############################################################
-#Author: Arjun Sharma
-#Email: <arjun_sharma123@outlook.com>
+#Authors: Arjun Sharma, Sachin
+#Email: <arjun_sharma123@outlook.com> <sachin_srinivasamurthy@isb.edu>
 #############################################################
 import cv2
 import math

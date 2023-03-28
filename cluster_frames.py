@@ -1,6 +1,6 @@
 #############################################################
-#Author: Arjun Sharma
-#Email: <arjun_sharma123@outlook.com>
+#Author: Sachin
+#Email: <sachin_srinivasamurthy@isb.edu>
 #############################################################
 
 import tensorflow as tf
